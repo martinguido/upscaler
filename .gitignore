@@ -1,0 +1,5 @@
+sample-data
+.idea
+.venv
+.DS_store
+utils/__pycache__
