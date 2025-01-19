@@ -35,6 +35,7 @@ Before running the project, make sure you have **FFmpeg** and **OpenCV** install
   ```bash
   pip install opencv-python
 
+
 ### 2. **Run the script** 💻
 
 Here are the steps to run the project:
@@ -43,10 +44,9 @@ Here are the steps to run the project:
 
   ```bash
   python interpolator.py <output_frames_directory>
+  ---
 
-  - **Step 2**: Rebuild the video from the frames using the `main.py` script.
-
----
+- **Step 2**: Rebuild the video from the frames using the `main.py` script.
 
 ## 📊 Features
 
