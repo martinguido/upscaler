@@ -7,6 +7,7 @@ def main():
     # COMMENT FOLLOWING LINE IF YOU HAVE ALREADY RUN THE FIRST TWO STEPS BEFORE
     # os.rmdir("./sample-data/video/frames")
 
+    # SELECT VIDEO AND OUTPUTH PATH
     video_path = "./sample-data/video.mp4"
     output_dir = "./sample-data/video/frames"
 
